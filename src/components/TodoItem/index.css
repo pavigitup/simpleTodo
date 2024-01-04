@@ -1,0 +1,22 @@
+p {
+  font-size: 17px;
+}
+
+.each-item {
+  display: flex;
+  justify-content: space-between;
+  width: 700px;
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+
+button {
+  border: 1px solid #ff0b37;
+  outline: none;
+  border-radius: 5px;
+  height: 40px;
+  padding: 10px 20px;
+  background-color: #ffffff;
+  color: #ff0b37;
+  font-weight: 700;
+}
